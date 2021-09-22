@@ -7,3 +7,4 @@ O Tensorboard é uma ferramenta que permite a visualização de qualquer estatí
 Neste artigo, os log gerado pelo tensorborder de um modelo trainado, será carregado pelo python ao invés da plataforma tensorborder, e com isso podemos carregar dois ou mais logs gerando gráfico combinados
 
 ![N|Solid](https://github.com/henriqueburis/tensorflow_log_loader/blob/main/figure/ACC.png?raw=true)
+![N|Solid](https://github.com/henriqueburis/tensorflow_log_loader/blob/main/figure/ACC_.png?raw=true)
