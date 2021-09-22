@@ -1,4 +1,4 @@
-# tensorflow_log_loader
+# Tensorflow Log Loader
 
 O Tensorflow é um dos frameworks de machine learning mais populares da atualidade. Ele utiliza o conceito de grafos para descrever o fluxo dos dados e operações do modelo. Cada nó representa uma operação matemática e cada conexão ou aresta do grafo representa uma array multidimensional, mais conhecida como tensor.
 
